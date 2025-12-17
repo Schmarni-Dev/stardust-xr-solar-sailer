@@ -1,11 +1,11 @@
 # Maintainer: Nova King <technobaboo@proton.me>
 
 _clientname="solar-sailer"
-pkgdesc="Minimize all your objects with 1 tap in Stardust XR"
+pkgdesc="Momentum based playspace mover for Stardust XR"
 
 pkgname="stardust-xr-$_clientname"
 pkgver="0.50.0"
-pkgrel="1"
+pkgrel="2"
 arch=("x86_64" "aarch64")
 url="https://github.com/StardustXR/$_clientname"
 license=("MIT")
